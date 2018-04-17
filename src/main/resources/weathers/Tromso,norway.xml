@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city id="3133895" name="Tromso">
+        <coord lon="18.96" lat="69.65"/>
+        <country>NO</country>
+        <sun rise="2018-04-17T02:32:15" set="2018-04-17T18:58:19"/>
+    </city>
+    <temperature value="35.6" min="35.6" max="35.6" unit="fahrenheit"/>
+    <humidity value="97" unit="%"/>
+    <pressure value="1017" unit="hPa"/>
+    <wind>
+        <speed value="2.33" name="Light breeze"/>
+        <gusts/>
+        <direction value="128.503" code="SE" name="SouthEast"/>
+    </wind>
+    <clouds value="0" name="clear sky"/>
+    <visibility value="10000"/>
+    <precipitation mode="no"/>
+    <weather number="800" value="clear sky" icon="01d"/>
+    <lastupdate value="2018-04-17T05:50:00"/>
+</current>

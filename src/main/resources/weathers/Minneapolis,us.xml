@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city id="5037649" name="Minneapolis">
+        <coord lon="-93.27" lat="44.98"/>
+        <country>US</country>
+        <sun rise="2018-04-17T11:24:24" set="2018-04-18T01:01:29"/>
+    </city>
+    <temperature value="29.55" min="26.6" max="32" unit="fahrenheit"/>
+    <humidity value="63" unit="%"/>
+    <pressure value="1017" unit="hPa"/>
+    <wind>
+        <speed value="4.7" name="Gentle Breeze"/>
+        <gusts/>
+        <direction value="320" code="NW" name="Northwest"/>
+    </wind>
+    <clouds value="1" name="clear sky"/>
+    <visibility value="16093"/>
+    <precipitation mode="no"/>
+    <weather number="800" value="clear sky" icon="01n"/>
+    <lastupdate value="2018-04-17T06:16:00"/>
+</current>

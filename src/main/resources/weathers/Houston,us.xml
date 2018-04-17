@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city id="4699066" name="Houston">
+        <coord lon="-95.37" lat="29.76"/>
+        <country>US</country>
+        <sun rise="2018-04-17T11:52:22" set="2018-04-18T00:49:56"/>
+    </city>
+    <temperature value="61" min="55.4" max="64.4" unit="fahrenheit"/>
+    <humidity value="82" unit="%"/>
+    <pressure value="1020" unit="hPa"/>
+    <wind>
+        <speed value="8.05" name="Fresh Breeze"/>
+        <gusts/>
+        <direction value="170" code="S" name="South"/>
+    </wind>
+    <clouds value="1" name="clear sky"/>
+    <visibility value="16093"/>
+    <precipitation mode="no"/>
+    <weather number="800" value="clear sky" icon="01n"/>
+    <lastupdate value="2018-04-17T05:55:00"/>
+</current>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city id="4887398" name="Chicago">
+        <coord lon="-87.62" lat="41.88"/>
+        <country>US</country>
+        <sun rise="2018-04-17T11:06:35" set="2018-04-18T00:34:01"/>
+    </city>
+    <temperature value="31.59" min="30.2" max="33.8" unit="fahrenheit"/>
+    <humidity value="64" unit="%"/>
+    <pressure value="1013" unit="hPa"/>
+    <wind>
+        <speed value="14.99" name="High wind, near gale"/>
+        <gusts value="9.3"/>
+        <direction value="280" code="W" name="West"/>
+    </wind>
+    <clouds value="90" name="overcast clouds"/>
+    <visibility value="16093"/>
+    <precipitation mode="no"/>
+    <weather number="804" value="overcast clouds" icon="04n"/>
+    <lastupdate value="2018-04-17T06:15:00"/>
+</current>
